@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SsbAdmin">
+</Property><Property Name="Solution File" Value="C:\code\ssbadmin\SsbAdmin.sln">
+</Property><Property Name="User Options File" Value="C:\code\ssbadmin\SsbAdmin.suo">
+</Property><Property Name="Date" Value="16 January 2008">
+</Property><Property Name="Time" Value="11:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SsbAdmin.sln" Description="File successfully backed up as C:\code\ssbadmin\Backup\SsbAdmin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SsbAdmin.suo" Description="File successfully backed up as C:\code\ssbadmin\Backup\SsbAdmin.suo">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="SsbAdmin.csproj" Description="Project file successfully backed up as C:\code\ssbadmin\Backup\SsbAdmin.csproj">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="SsbAdmin.csproj.user" Description="Project user file successfully backed up as C:\code\ssbadmin\Backup\SsbAdmin.csproj.user">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="about.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\about.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="about.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\about.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="addServer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\addServer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="addServer.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\addServer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="events.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\events.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form1.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form1.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form2.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form2.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form3.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form3.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="login.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\login.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="login.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Program.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="smo.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\smo.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="SMOServiceBrokerInterface.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\SMOServiceBrokerInterface.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="splash.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\splash.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="splash.Designer.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\splash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="TreeViewStuff.cs" Description="File successfully backed up as C:\code\ssbadmin\Backup\TreeViewStuff.cs">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Properties\Settings.settings" Description="File successfully backed up as C:\code\ssbadmin\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="about.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\about.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="addServer.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\addServer.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form1.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form2.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Form3.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="login.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\login.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="Properties\Resources.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="splash.resx" Description="File successfully backed up as C:\code\ssbadmin\Backup\splash.resx">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="SsbAdmin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SsbAdmin" Source="SsbAdmin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SsbAdmin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SsbAdmin.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SsbAdmin" Source="SsbAdmin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
